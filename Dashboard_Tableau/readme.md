@@ -32,7 +32,7 @@
 Частота обновления данных: один раз в сутки, в полночь по UTC;
 Какие графики должны отображаться и в каком порядке, какие элементы управления должны быть на дашборде (макет дашборда):
 # Макет дашборда
-![Макет дашборда](https://s755sas.storage.yandex.net/rdisk/e04d4b2a1a5a2f7777ca0fa2107a8a06678259db496cecc3c4b4e5f6d363b2f8/64544a9a/__G36_7zOIw4pKscMqlToAAKUjAd2QhJzAh13S_Zj4AGwlHRcwdZT2s3yRkGaAwBUSGSgFAB0CFNhcEtUDAqPw==?uid=0&filename=Untitled_-_2020-07-06T161108.832_1594041107.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&fsize=29743&hid=01503183cf5bb13d93da17f594f42ea6&media_type=image&tknv=v2&etag=7169bf2a4060eeb892b86bb7bae142b3&rtoken=8kZgJebIZKlA&force_default=no&ycrid=na-84f980e22c2c8bd9907a08f0f6c85dfb-downloader22h&ts=5fae72f545a80&s=c0e2b89353091eab40a3366180cdcb18a510aac1367dfc127a5ffb69e1ed0644&pb=U2FsdGVkX1-JHvIQUsHGSAyNX5R9V74fQdpU8Mq-HgXq23gJHcW3TTRBy_vGoDCJwzhscayxowUhQJcLICWrz2NcGawLQfBVAN6qZbF2bH0)
+![Макет дашборда](https://disk.yandex.ru/i/GeJIBUUTz2EuhQ)
 
 - Ccылка на Dashboard: https://public.tableau.com/app/profile/.61735416/viz/Analysisitemamdsource/Dashboard3?publish=yes
 - Cсылка на презентацию по дашборду презентацию с отчётом с ответами на вопросы и графики: https://disk.yandex.ru/i/xQ_miftuwMBS4w
